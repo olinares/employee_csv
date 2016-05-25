@@ -1,0 +1,8 @@
+Name,Employee Id,Email,Date of Birth,Start Date,End Date,Language,Manager,Gender,Location,Employment Type,Department
+Adam,1234,adam.rose@acmecorp.com,"Jun 02, 1968","Apr 02, 2013",,en,,Male,San Francisco,Full-time,Exec
+Emma,1235,emma.akin@acmecorp.com,"Jun 12, 1978","Nov 14, 2011",,en,Adam Rose,Female,San Francisco,Full-time,Exec
+Gabriel,1236,gabriel.jones@acmecorp.com,"Mar 27, 1972","Aug 20, 2012",,en,Adam Rose,Male,San Francisco,Full-time,Development
+Alexia,1237,alexia.taylor@acmecorp.com,"Sep 01, 1989","Jul 25, 2013",,en,Gabriel Jones,Female,San Jose,Full-time,Sales
+John,1238,john.smith@acmecorp.com,"Jan 23, 1991","Jun 12, 1978",,en,Alexia Taylor,Male,San Jose,Part-time,Development
+James,1239,jamesbrown@acmecorp.com,"Jun 05, 1988","May 19, 2008",,en,Alexia Taylor,Male,San Jose,Part-time,Development
+Roger,1240,rogerdavid@acmecorp.com,"May 21, 1984","Sep 01, 1989",,en,Alexia Taylor,Male,San Jose,Full-time,Development
